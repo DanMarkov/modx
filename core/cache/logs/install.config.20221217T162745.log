@@ -1,0 +1,1 @@
+[2022-12-17 16:27:45] (ERROR @ C:\OSPanel\domains\modx\setup\includes\modinstallsettings.class.php : 164) PHP warning: fopen(C:\OSPanel\domains\modx/core/cache/setup/settings.cache.php): Failed to open stream: No such file or directory

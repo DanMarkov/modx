@@ -1,0 +1,2 @@
+[2022-12-17 16:27:52] (ERROR @ C:\OSPanel\domains\modx\core\cache\setup\smarty\7c1644ed6a4ad7394347d2a4decaf1fef62cd0a5_0.file.complete.tpl.php : 30) PHP warning: Undefined array key "errors"
+[2022-12-17 16:27:52] (ERROR @ C:\OSPanel\domains\modx\core\cache\setup\smarty\7c1644ed6a4ad7394347d2a4decaf1fef62cd0a5_0.file.complete.tpl.php : 30) PHP warning: Attempt to read property "value" on null

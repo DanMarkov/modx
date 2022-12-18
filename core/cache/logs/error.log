@@ -1,0 +1,28 @@
+[2022-12-18 05:44:08] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-18 05:54:25] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Transport\modTransportPackage.php : 433) PHP warning: filesize(): stat failed for https://modx.s3.amazonaws.com/extras/4f6e2782f245544fe8000014/ace-1.9.3-pl.transport.zip?revolution_version=Revolution-3.0.2-pl
+[2022-12-18 05:54:25] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Transport\modTransportPackage.php : 756) PHP warning: A non-numeric value encountered
+[2022-12-18 06:00:16] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-18 06:00:16] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-18 06:00:42] (ERROR @ C:\OSPanel\domains\modx\core\cache\includes\elements\modx\revolution\modplugin\1.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2022-12-18 06:02:50] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-18 06:02:50] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-18 06:03:20] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-18 06:03:20] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-18 06:04:36] (ERROR @ C:\OSPanel\domains\modx\core\cache\includes\elements\modx\revolution\modplugin\1.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2022-12-18 06:07:44] (ERROR @ C:\OSPanel\domains\modx\core\cache\includes\elements\modx\revolution\modplugin\1.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2022-12-18 06:09:27] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-18 06:09:27] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-18 07:13:48] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-18 07:13:48] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-18 07:13:48] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-18 07:13:48] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-18 07:19:56] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-18 07:19:56] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-18 07:19:56] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-18 07:19:56] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-18 07:21:11] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-18 07:21:11] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-18 07:38:17] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-18 07:38:17] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-18 07:46:07] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-18 07:46:07] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists

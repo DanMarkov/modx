@@ -1,0 +1,1 @@
+[2022-12-17 16:28:07] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 509) PHP warning: rmdir(C:/OSPanel/domains/modx/setup/): Directory not empty
