@@ -28,6 +28,7 @@
     'OnManagerPageBeforeRender' => 
     array (
       1 => '1',
+      2 => '2',
     ),
     'OnPluginFormPrerender' => 
     array (
@@ -36,6 +37,10 @@
     'OnRichTextEditorRegister' => 
     array (
       1 => '1',
+    ),
+    'OnSiteRefresh' => 
+    array (
+      3 => '3',
     ),
     'OnSnipFormPrerender' => 
     array (
@@ -48,6 +53,10 @@
     'OnTVInputRenderList' => 
     array (
       1 => '1',
+    ),
+    'OnWebPagePrerender' => 
+    array (
+      3 => '3',
     ),
   ),
   'pluginCache' => 
@@ -209,6 +218,88 @@ if ($script) {
       'moduleguid' => '',
       'static' => 0,
       'static_file' => 'ace/elements/plugins/ace.plugin.php',
+    ),
+    2 => 
+    array (
+      'id' => 2,
+      'source' => 0,
+      'property_preprocess' => 0,
+      'name' => 'FormIt',
+      'description' => '',
+      'editor_type' => 0,
+      'category' => 1,
+      'cache_type' => 0,
+      'plugincode' => '/**
+ * FormIt plugin
+ *
+ * @package formit
+ */
+use Sterc\\FormIt;
+
+switch ($modx->event->name) {
+    case \'OnManagerPageBeforeRender\':
+        // If migration status is false, show migrate alert message bar in manager
+        if (method_exists(\'Sterc\\FormIt\', \'encryptionMigrationStatus\')) {
+            $formit = new FormIt($modx, $scriptProperties);
+
+            if (!$formit->encryptionMigrationStatus()) {
+                $modx->lexicon->load(\'formit:mgr\');
+
+                $properties = [\'message\' => $modx->lexicon(\'formit.migrate_alert\')];
+                $chunk      = $formit->_getTplChunk(\'migrate/alert\');
+                if ($chunk) {
+                    $modx->regClientStartupHTMLBlock($chunk->process($properties));
+                    $modx->regClientCSS($formit->config[\'css_url\'] . \'migrate.css\');
+                }
+            }
+        }
+
+    break;
+}',
+      'locked' => 0,
+      'properties' => 'a:0:{}',
+      'disabled' => 0,
+      'moduleguid' => '',
+      'static' => 0,
+      'static_file' => '',
+    ),
+    3 => 
+    array (
+      'id' => 3,
+      'source' => 1,
+      'property_preprocess' => 0,
+      'name' => 'pdoTools',
+      'description' => '',
+      'editor_type' => 0,
+      'category' => 3,
+      'cache_type' => 0,
+      'plugincode' => '/** @var \\MODX\\Revolution\\modX $modx */
+
+switch ($modx->event->name) {
+    case \'OnSiteRefresh\':
+        /** @var ModxPro\\PdoTools\\CoreTools $coreTools */
+        if ($coreTools = $modx->services->get(\'pdotools\')) {
+            if ($coreTools->clearFileCache()) {
+                $modx->log(modX::LOG_LEVEL_INFO, $modx->lexicon(\'refresh_default\') . \': pdoTools\');
+            }
+        }
+        break;
+    case \'OnWebPagePrerender\':
+        /** @var ModxPro\\PdoTools\\Parsing\\Parser $parser */
+        $parser = $modx->getParser();
+        if ($parser instanceof ModxPro\\PdoTools\\Parsing\\Parser) {
+            foreach ($parser->ignores as $key => $val) {
+                $modx->resource->_output = str_replace($key, $val, $modx->resource->_output);
+            }
+        }
+        break;
+}',
+      'locked' => 0,
+      'properties' => NULL,
+      'disabled' => 0,
+      'moduleguid' => '',
+      'static' => 0,
+      'static_file' => 'core/components/pdotools/elements/plugins/plugin.pdotools.php',
     ),
   ),
   'policies' => 
@@ -406,6 +497,8 @@ if ($script) {
             'view_unpublished' => true,
             'view_user' => true,
             'workspaces' => true,
+            'formit' => true,
+            'formit_encryptions' => true,
           ),
         ),
       ),

@@ -7,6 +7,12 @@
     0 => 
     array (
       0 => 1,
+      1 => 2,
+      2 => 5,
+    ),
+    2 => 
+    array (
+      0 => 4,
     ),
   ),
   'webLinkMap' => 
@@ -38,6 +44,10 @@
     array (
       1 => '1',
     ),
+    'OnSiteRefresh' => 
+    array (
+      3 => '3',
+    ),
     'OnSnipFormPrerender' => 
     array (
       1 => '1',
@@ -49,6 +59,10 @@
     'OnTVInputRenderList' => 
     array (
       1 => '1',
+    ),
+    'OnWebPagePrerender' => 
+    array (
+      3 => '3',
     ),
   ),
   'pluginCache' => 
@@ -211,6 +225,44 @@ if ($script) {
       'static' => 0,
       'static_file' => 'ace/elements/plugins/ace.plugin.php',
     ),
+    3 => 
+    array (
+      'id' => 3,
+      'source' => 1,
+      'property_preprocess' => 0,
+      'name' => 'pdoTools',
+      'description' => '',
+      'editor_type' => 0,
+      'category' => 3,
+      'cache_type' => 0,
+      'plugincode' => '/** @var \\MODX\\Revolution\\modX $modx */
+
+switch ($modx->event->name) {
+    case \'OnSiteRefresh\':
+        /** @var ModxPro\\PdoTools\\CoreTools $coreTools */
+        if ($coreTools = $modx->services->get(\'pdotools\')) {
+            if ($coreTools->clearFileCache()) {
+                $modx->log(modX::LOG_LEVEL_INFO, $modx->lexicon(\'refresh_default\') . \': pdoTools\');
+            }
+        }
+        break;
+    case \'OnWebPagePrerender\':
+        /** @var ModxPro\\PdoTools\\Parsing\\Parser $parser */
+        $parser = $modx->getParser();
+        if ($parser instanceof ModxPro\\PdoTools\\Parsing\\Parser) {
+            foreach ($parser->ignores as $key => $val) {
+                $modx->resource->_output = str_replace($key, $val, $modx->resource->_output);
+            }
+        }
+        break;
+}',
+      'locked' => 0,
+      'properties' => NULL,
+      'disabled' => 0,
+      'moduleguid' => '',
+      'static' => 0,
+      'static_file' => 'core/components/pdotools/elements/plugins/plugin.pdotools.php',
+    ),
   ),
   'policies' => 
   array (
@@ -225,6 +277,8 @@ if ($script) {
           'policy' => 
           array (
             'load' => true,
+            'formit' => true,
+            'formit_encryptions' => false,
           ),
         ),
         1 => 
@@ -416,6 +470,8 @@ if ($script) {
             'view_unpublished' => true,
             'view_user' => true,
             'workspaces' => true,
+            'formit' => true,
+            'formit_encryptions' => true,
           ),
         ),
       ),

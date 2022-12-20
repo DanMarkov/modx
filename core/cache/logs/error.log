@@ -26,3 +26,140 @@
 [2022-12-18 07:38:17] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
 [2022-12-18 07:46:07] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
 [2022-12-18 07:46:07] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(arrow_left.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(Arrow_right.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(arrow_up.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(behance.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(Bg_blog_right.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(career_line.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(facebook.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(Hamburger.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(img_1.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(img_1@2x.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(img_2.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(img_2@2x.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(img_3.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(img_4.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(img_5.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(linkedin.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(loader.gif): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(logo@2x.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(logo_white@2x.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(medium.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(Team_line.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(twitter.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(twitter_blog_widget.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(Works1.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(Works2.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(Works3.png): File not supported
+[2022-12-19 07:59:09] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(Works4.png): File not supported
+[2022-12-19 08:17:54] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-19 08:17:54] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-19 08:18:55] (ERROR @ C:\OSPanel\domains\modx\core\cache\includes\elements\modx\revolution\modplugin\1.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2022-12-19 08:19:34] (ERROR @ C:\OSPanel\domains\modx\core\cache\includes\elements\modx\revolution\modplugin\1.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2022-12-19 08:20:10] (ERROR @ C:\OSPanel\domains\modx\core\cache\includes\elements\modx\revolution\modplugin\1.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2022-12-19 08:21:23] (ERROR @ C:\OSPanel\domains\modx\core\cache\includes\elements\modx\revolution\modplugin\1.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2022-12-19 08:21:58] (ERROR @ C:\OSPanel\domains\modx\core\cache\includes\elements\modx\revolution\modplugin\1.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2022-12-19 08:22:30] (ERROR @ C:\OSPanel\domains\modx\core\cache\includes\elements\modx\revolution\modplugin\1.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2022-12-19 08:32:00] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Transport\modTransportPackage.php : 433) PHP warning: filesize(): stat failed for https://modx.s3.amazonaws.com/extras/4d556c62b2b083396d000b9c/formit-5.0.1-pl.transport.zip?revolution_version=Revolution-3.0.2-pl
+[2022-12-19 08:32:00] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Transport\modTransportPackage.php : 756) PHP warning: A non-numeric value encountered
+[2022-12-19 08:35:18] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Transport\modTransportPackage.php : 433) PHP warning: filesize(): stat failed for https://modx.s3.amazonaws.com/extras/5279c6d462cf24078e000edb/ajaxform-1.1.9-pl.transport.zip?revolution_version=Revolution-3.0.2-pl
+[2022-12-19 08:35:18] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Transport\modTransportPackage.php : 756) PHP warning: A non-numeric value encountered
+[2022-12-19 10:27:17] (ERROR @ C:\OSPanel\domains\modx\core\cache\includes\elements\modx\revolution\modplugin\1.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2022-12-19 10:28:49] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-19 10:28:49] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-19 10:28:49] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-19 10:28:49] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-19 15:18:35] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-19 15:18:35] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-19 15:19:48] (ERROR @ C:\OSPanel\domains\modx\core\vendor\inlinestyle\inlinestyle\InlineStyle\InlineStyle.php : 83) PHP warning: DOMDocument::loadHTML(): Tag section invalid in Entity, line: 1
+[2022-12-19 15:21:04] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Transport\modTransportPackage.php : 433) PHP warning: filesize(): stat failed for https://modx.s3.amazonaws.com/extras/50f8468bf2455436ec00000d/pdotools-3.0.1-pl.transport.zip?revolution_version=Revolution-3.0.2-pl
+[2022-12-19 15:21:04] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Transport\modTransportPackage.php : 756) PHP warning: A non-numeric value encountered
+[2022-12-19 15:27:58] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-19 15:27:58] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-19 15:27:58] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-19 15:27:58] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-19 15:32:11] (ERROR @ C:\OSPanel\domains\modx\core\cache\includes\elements\modx\revolution\modplugin\1.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2022-12-19 15:40:36] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-19 15:40:36] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-19 15:41:28] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-19 15:41:28] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-19 15:51:56] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-19 15:51:56] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-19 15:52:04] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-19 15:52:04] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-19 15:52:04] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-19 15:52:04] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-19 15:52:30] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-19 15:52:30] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(Automated_online_assistant.png): File not supported
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\Sources\modMediaSource.php : 2242) PHP warning: exif_read_data(Automated_online_assistant.png): File not supported
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$cache_source_enabled
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$cache_source_directory
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$allow_local_http_src
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$cache_directory_depth
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 1583) PHP warning: file_get_contents(C:\OSPanel\domains\modx\core\cache\phpthumb\phpThumbCacheIMversion.txt): Failed to open stream: No such file or directory
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 1510) PHP warning: file_get_contents(C:\OSPanel\domains\modx\core\cache\phpthumb\phpThumbCacheIMcommandlineBase.txt): Failed to open stream: No such file or directory
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 2484) PHP warning: exif_read_data(Automated_online_assistant.png): File not supported
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 335) PHP warning: Undefined array key "sia"
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 335) PHP warning: Undefined array key "down"
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 337) PHP warning: Undefined array key "down"
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 339) PHP warning: Undefined array key "down"
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 305) PHP warning: Undefined array key "HTTP_IF_MODIFIED_SINCE"
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$cache_source_enabled
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$cache_source_directory
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$allow_local_http_src
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$cache_directory_depth
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 2484) PHP warning: exif_read_data(Automated_online_assistant.png): File not supported
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 335) PHP warning: Undefined array key "sia"
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 335) PHP warning: Undefined array key "down"
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 337) PHP warning: Undefined array key "down"
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 339) PHP warning: Undefined array key "down"
+[2022-12-19 16:25:06] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 305) PHP warning: Undefined array key "HTTP_IF_MODIFIED_SINCE"
+[2022-12-19 16:25:08] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$cache_source_enabled
+[2022-12-19 16:25:08] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$cache_source_directory
+[2022-12-19 16:25:08] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$allow_local_http_src
+[2022-12-19 16:25:08] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$cache_directory_depth
+[2022-12-19 16:25:08] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 335) PHP warning: Undefined array key "sia"
+[2022-12-19 16:25:08] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 335) PHP warning: Undefined array key "down"
+[2022-12-19 16:25:08] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 337) PHP warning: Undefined array key "down"
+[2022-12-19 16:25:08] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 339) PHP warning: Undefined array key "down"
+[2022-12-19 16:25:08] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 305) PHP warning: Undefined array key "HTTP_IF_MODIFIED_SINCE"
+[2022-12-19 16:35:11] (ERROR @ C:\OSPanel\domains\modx\core\cache\includes\elements\modx\revolution\modplugin\1.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2022-12-19 16:45:04] (ERROR @ C:\OSPanel\domains\modx\core\cache\includes\elements\modx\revolution\modplugin\1.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2022-12-19 16:45:46] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$cache_source_enabled
+[2022-12-19 16:45:46] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$cache_source_directory
+[2022-12-19 16:45:46] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$allow_local_http_src
+[2022-12-19 16:45:46] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$cache_directory_depth
+[2022-12-19 16:45:46] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 335) PHP warning: Undefined array key "sia"
+[2022-12-19 16:45:46] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 335) PHP warning: Undefined array key "down"
+[2022-12-19 16:45:46] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 337) PHP warning: Undefined array key "down"
+[2022-12-19 16:45:46] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 339) PHP warning: Undefined array key "down"
+[2022-12-19 16:45:46] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 305) PHP warning: Undefined array key "HTTP_IF_MODIFIED_SINCE"
+[2022-12-19 16:52:12] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-19 16:55:37] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-19 16:55:37] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-19 16:55:37] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-19 16:56:55] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-19 16:56:55] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-19 17:11:48] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-19 17:11:48] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-19 17:11:48] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-19 17:11:48] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-20 07:08:41] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$cache_source_enabled
+[2022-12-20 07:08:41] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$cache_source_directory
+[2022-12-20 07:08:41] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$allow_local_http_src
+[2022-12-20 07:08:41] (ERROR @ C:\OSPanel\domains\modx\core\vendor\james-heinrich\phpthumb\phpthumb.class.php : 379) PHP warning: Undefined property: MODX\Revolution\modPhpThumb::$cache_directory_depth
+[2022-12-20 07:08:41] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 335) PHP warning: Undefined array key "sia"
+[2022-12-20 07:08:41] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 335) PHP warning: Undefined array key "down"
+[2022-12-20 07:08:41] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 337) PHP warning: Undefined array key "down"
+[2022-12-20 07:08:41] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 339) PHP warning: Undefined array key "down"
+[2022-12-20 07:08:41] (ERROR @ C:\OSPanel\domains\modx\core\src\Revolution\modPhpThumb.php : 305) PHP warning: Undefined array key "HTTP_IF_MODIFIED_SINCE"
+[2022-12-20 07:12:25] (ERROR @ C:\OSPanel\domains\modx\core\cache\includes\elements\modx\revolution\modplugin\1.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2022-12-20 07:18:04] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-20 07:18:04] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-20 07:18:04] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 319) PHP warning: mkdir(): File exists
+[2022-12-20 07:18:04] (ERROR @ C:\OSPanel\domains\modx\core\vendor\xpdo\xpdo\src\xPDO\Cache\xPDOCacheManager.php : 324) PHP warning: mkdir(): File exists
+[2022-12-20 08:42:54] (ERROR @ C:\OSPanel\domains\modx\core\cache\includes\elements\modx\revolution\modplugin\1.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2022-12-20 09:57:53] (ERROR @ C:\OSPanel\domains\modx\core\vendor\inlinestyle\inlinestyle\InlineStyle\InlineStyle.php : 83) PHP warning: DOMDocument::loadHTML(): Tag section invalid in Entity, line: 1
+[2022-12-20 10:02:20] (ERROR @ C:\OSPanel\domains\modx\core\vendor\inlinestyle\inlinestyle\InlineStyle\InlineStyle.php : 83) PHP warning: DOMDocument::loadHTML(): Tag section invalid in Entity, line: 1
